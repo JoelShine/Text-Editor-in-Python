@@ -1,0 +1,11 @@
+Welcome to the Help section of the Text Editor
+-------------------------------------------------------------
+This is only a prototype version of the Text Editor. It has both Night and Dark Modes.
+
+Controls - 
+
+1 ) For copying - Select the text and Ctrl+C or Copy from Edit
+2 ) For pasting - Select the text and Ctrl+V or Paste from Edit
+3 ) For cutting - Select the text and Ctrl+X or Cut from Edit
+4 ) For undo - Select the text and Ctrl+Z or Undo from Edit
+5 ) For redo - Select the text and Ctrl+Y or Redo from Edit
